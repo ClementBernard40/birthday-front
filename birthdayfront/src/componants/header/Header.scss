@@ -1,0 +1,13 @@
+@import '../../variable';
+
+
+
+.header {
+   padding: 22px;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   font-size: 40px;
+   font-weight: 300px;
+   border-bottom: 2px solid $black;
+}

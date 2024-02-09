@@ -1,0 +1,24 @@
+@import '../../variable';
+
+.bodyG {
+background-color:$pink;
+width: 50%;
+}
+
+.img {
+   width: 300px;
+   height: 300px;
+}
+
+.divImg {
+   display: flex;
+   justify-content: center;
+   margin: 80px auto 100px;
+}
+
+
+.txtNom {
+   font-size: 96px;
+   align-items: flex-end;
+   text-align: center;
+}
