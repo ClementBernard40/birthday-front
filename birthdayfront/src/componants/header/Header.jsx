@@ -24,7 +24,6 @@ const Header = () => {
           {currentDate}
         </div>
       </div>
-      <hr/>
     </div>
 
 

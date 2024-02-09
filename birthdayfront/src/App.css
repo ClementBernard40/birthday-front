@@ -1,1 +1,9 @@
 
+
+
+
+.bodyCol {
+  min-height: calc(100vh - 92px);
+  display: flex;
+  justify-content: space-between;
+}
