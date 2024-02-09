@@ -1,8 +1,6 @@
-.header {
-   padding: 22px;
-   display: flex;
-   justify-content: space-between;
-   align-items: flex-start;
-   font-size: 40px;
-   font-weight: 300px;
+@import '../../variable';
+
+.bodyG {
+background-color:$pink;
+width: 50%;
 }
